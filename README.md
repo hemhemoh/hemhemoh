@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemhemoh
-- 👀 I’m a python enthusiast
-- 🌱 I’m currently perfecting my Data Analysis and Data science skills
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m a Machine Learning Engineer
+- 🌱 I do research with open science communities like ML Collective and Masakhane.
+- 💞️ I’m open to collaborate on Machine learning research and engineering project.
 - YOU CAN REACH ME via mardiyyahodu@gmail.com
 
 <!---
